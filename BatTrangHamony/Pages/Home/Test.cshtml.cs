@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
-namespace BatTrangHamony.Pages.Login
+namespace BatTrangHamony.Pages.Home
 {
     public class TestModel : PageModel
     {
