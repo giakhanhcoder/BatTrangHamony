@@ -9,41 +9,43 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BatTrangHamony
 build_property.RootNamespace = BatTrangHamony
-build_property.ProjectDir = D:\FPT\Semester_8\EXE201\BatTrangHamony\BatTrangHamony\
+build_property.ProjectDir = D:\BatTrangHarmony\BatTrangHamony\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\FPT\Semester_8\EXE201\BatTrangHamony\BatTrangHamony
+build_property.MSBuildProjectDirectory = D:\BatTrangHarmony\BatTrangHamony
 build_property._RazorSourceGeneratorDebug = 
-build_property.EffectiveAnalysisLevelStyle = 8.0
-build_property.EnableCodeStyleSeverity = 
 
-[D:/FPT/Semester_8/EXE201/BatTrangHamony/BatTrangHamony/Pages/Error.cshtml]
+[D:/BatTrangHarmony/BatTrangHamony/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FPT/Semester_8/EXE201/BatTrangHamony/BatTrangHamony/Pages/Index.cshtml]
+[D:/BatTrangHarmony/BatTrangHamony/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FPT/Semester_8/EXE201/BatTrangHamony/BatTrangHamony/Pages/Privacy.cshtml]
+[D:/BatTrangHarmony/BatTrangHamony/Pages/Login/Test.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW5cVGVzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BatTrangHarmony/BatTrangHamony/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FPT/Semester_8/EXE201/BatTrangHamony/BatTrangHamony/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[D:/BatTrangHarmony/BatTrangHamony/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FPT/Semester_8/EXE201/BatTrangHamony/BatTrangHamony/Pages/_ViewImports.cshtml]
+[D:/BatTrangHarmony/BatTrangHamony/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FPT/Semester_8/EXE201/BatTrangHamony/BatTrangHamony/Pages/_ViewStart.cshtml]
+[D:/BatTrangHarmony/BatTrangHamony/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FPT/Semester_8/EXE201/BatTrangHamony/BatTrangHamony/Pages/Shared/_Layout.cshtml]
+[D:/BatTrangHarmony/BatTrangHamony/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-jy5k8nelxe

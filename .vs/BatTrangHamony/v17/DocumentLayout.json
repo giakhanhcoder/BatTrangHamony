@@ -1,12 +1,66 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\FPT\\Semester_8\\EXE201\\BatTrangHamony\\",
-  "Documents": [],
+  "WorkspaceRootPath": "D:\\BatTrangHarmony\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31959A8B-FD79-473F-B939-EC3ADC8C6952}|BatTrangHamony\\BatTrangHamony.csproj|D:\\BatTrangHarmony\\battranghamony\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{31959A8B-FD79-473F-B939-EC3ADC8C6952}|BatTrangHamony\\BatTrangHamony.csproj|solutionrelative:battranghamony\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31959A8B-FD79-473F-B939-EC3ADC8C6952}|BatTrangHamony\\BatTrangHamony.csproj|d:\\battrangharmony\\battranghamony\\pages\\login\\test.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31959A8B-FD79-473F-B939-EC3ADC8C6952}|BatTrangHamony\\BatTrangHamony.csproj|solutionrelative:battranghamony\\pages\\login\\test.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 600,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\BatTrangHarmony\\BatTrangHamony\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BatTrangHamony\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\BatTrangHarmony\\BatTrangHamony\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BatTrangHamony\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-26T07:02:51.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Test.cshtml",
+              "DocumentMoniker": "D:\\BatTrangHarmony\\BatTrangHamony\\Pages\\Login\\Test.cshtml",
+              "RelativeDocumentMoniker": "BatTrangHamony\\Pages\\Login\\Test.cshtml",
+              "ToolTip": "D:\\BatTrangHarmony\\BatTrangHamony\\Pages\\Login\\Test.cshtml",
+              "RelativeToolTip": "BatTrangHamony\\Pages\\Login\\Test.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-26T07:02:28.572Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
